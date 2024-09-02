@@ -1,4 +1,3 @@
-
 # Random Quote Generator
 
 This is a simple ReactJS project that generates random quotes using the [Ron Swanson Quotes API](https://ron-swanson-quotes.herokuapp.com/v2/quotes).
@@ -8,6 +7,7 @@ This is a simple ReactJS project that generates random quotes using the [Ron Swa
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Live Demo](#live-demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -70,6 +70,10 @@ Random-Quote-Generator/
 
 - `src/App.js`: The main component that handles the logic for fetching and displaying quotes.
 - `src/index.js`: The entry point of the React application.
+
+## Live Demo
+
+Check out the live demo of the project [here](https://random-qoute-generator-q22yuhlpw-akshay-k-a-devs-projects.vercel.app/).
 
 ## Contributing
 
